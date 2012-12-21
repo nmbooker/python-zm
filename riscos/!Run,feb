@@ -1,3 +1,3 @@
 |Iconsprites <Obey$Dir>.!Sprites
-Set PythonZM$Path <Obey$Dir>.
-<obey$dir>.AddToPath Python$Path PythonZM:Lib
+Set PyZM$Path <Obey$Dir>.
+<obey$dir>.AddToPath Python$Path PyZM:Lib
